@@ -1,0 +1,7 @@
+.env
+.env.docker
+vendor/
+node_modules/
+*.log
+.DS_Store
+agro-predictor-basic/documentacion_base.pdf
